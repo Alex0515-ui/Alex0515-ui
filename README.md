@@ -29,9 +29,9 @@ Building backends — REST APIs, Telegram bots, server-side logic. Focused on Py
 |---|---|
 | ✈️ [FLIGHT_TRACKER](https://github.com/Alex0515-ui/FLIGHT_TRACKER) | Real-time flight tracking |
 | 🛒 [MINI_MARKET](https://github.com/Alex0515-ui/MINI_MARKET) | E-commerce API |
-| 🤖 [TG_BOT](https://github.com/Alex0515-ui/TG_BOT) | Telegram bot backend |
+| 🤖 [TG_BOT](https://github.com/Alex0515-ui/TG_BOT) | Telegram bot for le arning English|
 | 🐍 [PURE_PYTHON_BACK](https://github.com/Alex0515-ui/PURE_PYTHON_BACK) | Todo app built without any framework |
-| 🔧 [TASKOFFER](https://github.com/Alex0515-ui/TASKOFFER) | Platform for finding and offering quick jobs |
+| 🔧 [TASKOFFER](https://github.com/Alex0515-ui/TASK_OFFER) | Platform for finding and offering quick jobs |
 
 ---
 
