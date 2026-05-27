@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Alex — Junior Backend Developer 🐍
+# Alihan — Junior Backend Developer 🐍
 
 19 y.o. · Almaty, Kazakhstan · Student @ Innovative Technical College
 
